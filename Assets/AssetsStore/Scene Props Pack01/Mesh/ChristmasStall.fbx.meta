@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 1380338bda9a05f48a7f013a8f5679da
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: default
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: default
+  - first:
+      21: 2100000
+    second: Ice0029_SemiTrans
+  - first:
+      21: 2100002
+    second: thatch4Large_Colour_NRM
+  - first:
+      21: 2100004
+    second: Ropes_H
+  - first:
+      21: 2100006
+    second: EndOfLog
+  - first:
+      21: 2100008
+    second: 3093HeavyWoodGrain
+  - first:
+      21: 2100010
+    second: rust01
+  - first:
+      21: 2100012
+    second: PLATEOX2
+  - first:
+      21: 2100014
+    second: MetalLeaking0044_1_S
+  - first:
+      21: 2100016
+    second: 833059BadRust
+  - first:
+      21: 2100018
+    second: t4_b
+  - first:
+      21: 2100020
+    second: t3_b
+  - first:
+      21: 2100022
+    second: Ice0029_S
+  - first:
+      21: 2100024
+    second: icex1
+  - first:
+      23: 2300000
+    second: default
+  - first:
+      33: 3300000
+    second: default
+  - first:
+      43: 4300000
+    second: default
+  - first:
+      64: 6400000
+    second: default
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3093HeavyWoodGrain
+    second: {fileID: 2100000, guid: ba73d0014c857634e919c1089623d48a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 833059BadRust
+    second: {fileID: 2100000, guid: b597f5adf1eac7848a30a1ae1ee512b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EndOfLog
+    second: {fileID: 2100000, guid: 2288e958fcde0fb44b222807b5305d7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ice0029_S
+    second: {fileID: 2100000, guid: 5cc23d08a3549c9418455625eeb4af58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ice0029_SemiTrans
+    second: {fileID: 2100000, guid: 462b369a1e35bf5418201341e6578e0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalLeaking0044_1_S
+    second: {fileID: 2100000, guid: e74f6643aad69e7489dc65f60e9d6176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLATEOX2
+    second: {fileID: 2100000, guid: 2ce7419e9cab7914995396db75e012e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ropes_H
+    second: {fileID: 2100000, guid: a74beb145f8751840a36404acb945c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: icex1
+    second: {fileID: 2100000, guid: 5f7981bb3416fef459528f0482db5d46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rust01
+    second: {fileID: 2100000, guid: 69ad67441fc1dd04d97816597ac7462d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t3_b
+    second: {fileID: 2100000, guid: c70817f0b4e7cc3499e038afa50a6a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t4_b
+    second: {fileID: 2100000, guid: ddf9acfc7b56fce478427a0bc808a4a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thatch4Large_Colour_NRM
+    second: {fileID: 2100000, guid: 0123bcec7481a6f449951da621838158, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.5
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
